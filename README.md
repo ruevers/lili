@@ -20,3 +20,27 @@ Block >623100 = 5 Coins per block / 35 % POS Miners / 65 % Masternodes <br><br>
 ◆  Instant send: ~5 seconds<br>
 ◆  Difficulty retargeting: Dark Gravity Wave<br>
 ◆  Transaction anonymity: Private send Implementation<br>
+
+Update 12/2018
+
+Correct POS block chain and activate staking.
+The POW will be disabled in block 407000 
+Last PoW: 407000
+
+PoS = 35%
+Masternode = 65%
+
+20 Coin = 407001 - 417000
+15 Coin = 417001 - 427000
+10 Coin = 427001 - 437000
+5 Coin = 437001+
+
+Discord Channel.
+https://discord.gg/56MRHEJ
+
+Explorer
+http://coinexplorer.sytes.net/
+
+WebSite
+http://lilipool.sytes.net
+
