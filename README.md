@@ -42,5 +42,5 @@ Explorer
 http://coinexplorer.sytes.net/
 
 WebSite
-http://lilipool.sytes.net
+http://lili.sytes.net/
 
